@@ -12,7 +12,7 @@ This is a basic keylogger script written in Python using the `pynput` library. I
 1. Clone the repository:
 
    ```bash
-  git clone https://github.com/Ramya-Sree-V/Simple_Keylogger.git
+   git clone https://github.com/Ramya-Sree-V/Simple_Keylogger.git
    ```
 2. Install the required dependencies:
    ```bash
